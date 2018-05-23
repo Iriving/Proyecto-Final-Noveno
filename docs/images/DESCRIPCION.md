@@ -1,1 +1,1 @@
-
+La docuemntacion(imagenes) que presentaremos en el proyecto la guardaremos en el apartado de images, con esto buscamos tener un orden especifico de la informacion y asi cada integrante del equipo de trabajo puede visualizarla. 

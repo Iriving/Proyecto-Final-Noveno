@@ -1,1 +1,1 @@
-
+Descripción del proyecto móvil.
